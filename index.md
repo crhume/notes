@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Notes
+title: Home
 subheading: Home
 ---
 Hello World!
